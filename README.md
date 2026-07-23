@@ -1,4 +1,4 @@
-# AI Chatbo
+# AI Chatbot
 
 A Python-based chatbot project currently under development.
 
